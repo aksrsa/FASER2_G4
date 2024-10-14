@@ -1,3 +1,11 @@
 **~
 **.root
 **.o
+newgeo-build
+*.hepmc
+*.cache
+*.bash
+*.bashrc
+*.inputrc
+*.DS_Store
+*.bash_history
